@@ -1,0 +1,28 @@
+{
+    "log": {
+        "loglevel": "none"
+    },
+    "inbounds": [
+        {
+            "port": 11475,
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "8a4b13b2-fa32-4dc1-80a1-ba7c6f95e846"
+                    }
+                ],
+                "decryption": "none"
+            },
+            "streamSettings": {
+                "network": "tcp"
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        }
+    ]
+}
