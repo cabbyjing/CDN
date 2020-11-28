@@ -1,7 +1,7 @@
 var a_idx = 0;
 jQuery(document).ready(function ($) {
   $("body").click(function (e) {
-    var a = new Array("青青子衿", "悠悠我心", "纵我不往", "子宁不嗣音", "青青子佩", "悠悠我思", "纵我不往", "子宁不来", "挑兮达兮", "在城阙兮", "一日不见", "如三月兮");
+    var a = new Array("天青色等烟雨", "而我在等你", "炊烟袅袅升起", "隔江千万里", "在瓶底书汉隶仿前朝的飘逸", "就当我为遇见你伏笔", );
     var $i = $("<span/>").text(a[a_idx]);
     a_idx = (a_idx + 1) % a.length;
     var x = e.pageX,
