@@ -1,9 +1,14 @@
 [AutoProxy 0.2.9]
+!
+!
 ||paypal.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
 ||pixiv.org
+!
+! my extras
+!
 ||000webhost.com
 ||030buy.com
 ||0rz.tw
