@@ -1,5 +1,7 @@
 [AutoProxy 0.2.9]
 ||paypal.com
+||miuipolska.pl
+||pximg.net
 ||pixiv.org
 ||000webhost.com
 ||030buy.com
@@ -6038,4 +6040,3 @@
 ||zzcartoon.com
 ||zzcloud.me
 ||zzux.com
-||pximg.net
