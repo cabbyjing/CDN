@@ -1,5 +1,6 @@
 [AutoProxy 0.2.9]
 ||paypal.com
+||fast.com
 ||miuipolska.pl
 ||pximg.net
 ||pixiv.org
