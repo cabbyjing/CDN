@@ -2,7 +2,6 @@
 !
 !
 ||paypal.com
-||raw.githubusercontent.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
