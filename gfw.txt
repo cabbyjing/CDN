@@ -1,3 +1,4 @@
+[AutoProxy 0.2.9]
 ||paypla.com
 ||pixiv.org
 ||000webhost.com
