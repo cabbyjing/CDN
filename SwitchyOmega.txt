@@ -2,6 +2,7 @@
 !
 !
 ||paypal.com
+||oraclecloud.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
