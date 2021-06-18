@@ -2,11 +2,13 @@
 !
 !
 ||paypal.com
+||hostyun.com
 ||cloudflare.com
 ||oraclecloud.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
+||pixiv.co.jp
 ||pixiv.org
 !
 ! my extras
