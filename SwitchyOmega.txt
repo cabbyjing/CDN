@@ -4,7 +4,7 @@
 ||paypal.com
 ||hostyun.com
 ||cloudflare.com
-||oraclecloud.com
+||oracle.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
