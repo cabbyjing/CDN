@@ -1,6 +1,7 @@
 [AutoProxy 0.2.9]
 !
 !
+||nekoneko.cloud
 ||apkfab.com
 ||paypal.com
 ||hostyun.com
