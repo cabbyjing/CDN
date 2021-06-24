@@ -1,6 +1,7 @@
 [AutoProxy 0.2.9]
 !
 !
+||apkfab.com
 ||paypal.com
 ||hostyun.com
 ||cloudflare.com
