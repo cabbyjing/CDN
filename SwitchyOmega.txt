@@ -1,12 +1,13 @@
 [AutoProxy 0.2.9]
 !
 !
+||oraclecloud.com
+||oracle.com
 ||nekoneko.cloud
 ||apkfab.com
 ||paypal.com
 ||hostyun.com
 ||cloudflare.com
-||oracle.com
 ||fast.com
 ||miuipolska.pl
 ||pximg.net
